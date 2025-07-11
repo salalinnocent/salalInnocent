@@ -53,4 +53,4 @@
 📘 -Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma et al.  
 
 ---
-<p align="center"><em>"There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people - Richard Feynman"</em></p>
+<p align="center"><em>"There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people  Richard Feynman"</em></p>
