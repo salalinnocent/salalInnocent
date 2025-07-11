@@ -31,10 +31,10 @@
 
 <h3>📚 Books to Read Next:</h3>
 
-📗 -The Pragmatic Programmer by Andy Hunt & Dave Thomas
-📕 -Designing Data-Intensive Applications by Martin Kleppmann
-📒 -Clean Code by Robert C. Martin
-📘 -Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma et al.
+📗 -The Pragmatic Programmer by Andy Hunt & Dave Thomas  
+📕 -Designing Data-Intensive Applications by Martin Kleppmann  
+📒 -Clean Code by Robert C. Martin  
+📘 -Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma et al.  
 
 ---
 <p align="center"><em>"There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people - Richard Feynman"</em></p>
