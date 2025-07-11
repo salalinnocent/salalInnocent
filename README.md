@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salal Innocent</h1>
-<h3 align="center">Frontend Developer • JavaScript Enthusiast • Terminal Ricer</h3>
+<h3 align="center">Frontend Developer • JavaScript Enthusiast •</h3>
 
 <p align="center">
   <a href="https://www.salalinnocent.dev" target="_blank">
