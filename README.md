@@ -29,4 +29,4 @@
 
 ---
 
-<p align="center"><em>"Design in the browser. Ship from the terminal."</em></p>
+<p align="center"><em>"There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people - Richard Feynman"</em></p>
