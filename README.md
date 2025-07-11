@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools 💻 :</h3>
+<h3 align="center">🛠️ Languages and Tools 💻 :</h3>
 <p align="center">
     <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/alacritty/alacritty" target="_blank"><img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" width="40" height="40"/></a>
