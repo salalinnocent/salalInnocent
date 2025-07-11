@@ -45,7 +45,7 @@
 
 ---
 
-<h3>📚 Books to Read Next:</h3>
+<h3>📚 Reading List:</h3>
 
 📗 -The Pragmatic Programmer by Andy Hunt & Dave Thomas  
 📕 -Designing Data-Intensive Applications by Martin Kleppmann  
