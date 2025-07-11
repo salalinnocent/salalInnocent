@@ -20,13 +20,12 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 6px;"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/></a>
- <a href="https://www.apollographql.com/docs/react/" target="_blank"><img src="https://raw.githubusercontent.com/apollographql/apollo-client/main/docs/source/images/logo-icon.svg" width="40" height="40"/></a>
   <a href="https://www.apollographql.com/docs/react/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apollographql.svg" width="40" height="40" alt="Apollo Client"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apollographql.svg" width="40" height="40" alt="Apollo Client" style="background-color: white; padding: 5px; border-radius: 6px;"/>
 </a>
 
 </p>
