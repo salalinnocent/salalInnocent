@@ -23,10 +23,18 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/alacritty/alacritty" target="_blank"><img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" width="40" height="40"/></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/></a>
+  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img src="https://seeklogo.com/images/A/apollo-graphql-logo-DC7DD3C444-seeklogo.com.png" width="40" height="40"/></a>
 </p>
 
 ---
 
+<h3>📚 Books to Read Next:</h3>
+
+📗 -The Pragmatic Programmer by Andy Hunt & Dave Thomas
+📕 -Designing Data-Intensive Applications by Martin Kleppmann
+📒 -Clean Code by Robert C. Martin
+📘 -Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma et al.
+
+---
 <p align="center"><em>"There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people - Richard Feynman"</em></p>
