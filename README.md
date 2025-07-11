@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools 💻 :</h3>
+<h3 align="center">🛠️ Languages and Tools 💻</h3>
 <p align="center">
     <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/alacritty/alacritty" target="_blank"><img src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" width="40" height="40"/></a>
@@ -29,6 +29,19 @@
 </a>
 
 </p>
+
+---
+
+<h2>📝 Blogs</h2>
+
+<ul>
+  <li>🚀 <strong>Documented Full-Stack Application Journey</strong></li>  
+  <li>🎨 <strong>Behind the Classes: Tailwind Explained</strong></li>  
+  <li>💡 <strong>Hints For Programming</strong></li>  
+  <li>⚛️ <strong>React Components Lifecycle</strong></li>  
+</ul>
+
+<p><em>🌐 Read all articles on my website: <a href="https://www.salalinnocent.dev" target="_blank">www.salalinnocent.dev</a></em></p>
 
 ---
 
