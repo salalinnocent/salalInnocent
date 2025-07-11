@@ -24,7 +24,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.apollographql.com/docs/react/" target="_blank"><img src="https://seeklogo.com/images/A/apollo-graphql-logo-DC7DD3C444-seeklogo.com.png" width="40" height="40"/></a>
+ <a href="https://www.apollographql.com/docs/react/" target="_blank"><img src="https://raw.githubusercontent.com/apollographql/apollo-client/main/docs/source/images/logo-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
