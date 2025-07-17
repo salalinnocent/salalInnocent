@@ -7,8 +7,8 @@
   <a href="https://linkedin.com/in/salal-innocent" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  ![Profile views](https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat)
 </p>
+  ![Profile views](https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
