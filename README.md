@@ -1,7 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Salal Innocent</h1>
 <h3 align="center">Frontend Developer • JavaScript Enthusiast •</h3>
-<pre lang="md"> <img src="https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat" alt="salalinnocent" /> </pre>
-
 <p align="center">
   <a href="https://www.salalinnocent.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-salalinnocent.dev-informational?style=for-the-badge&logo=vercel&logoColor=white" />
