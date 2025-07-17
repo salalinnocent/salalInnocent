@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Salal Innocent</h1>
 <h3 align="center">Frontend Developer • JavaScript Enthusiast •</h3>
 <p align="center">
@@ -8,7 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-  ![Profile views](https://komarev.com/ghpvc/?username=salalinnocent&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
